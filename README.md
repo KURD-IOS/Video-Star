@@ -10,7 +10,7 @@
 ## هەنگاوی یەکەم 1 - دابەزاندنی IPAـــی یاریەکە کە لینکەکەم داناوە لە خوارەوە بۆتان.
 **[گرتە لەم لینکە بکە بۆ دابەزاندنی Video Star](https://github.com/KURD-IOS/Video-Star/releases/download/Video-Star-KURDiOS/Video.Star.-.KURDiOS.ipa)**
 ---
-## هەنگاوی دووەم 2  :- ئەتوانن بەرێگای یەکێک لە Trollstore , Esign , Scarlet , sierraدایبەزێنن ( جگە لە ترۆڵستۆر بۆ هەریەک لەوانەی تر پێویستان بە Certificate دەبێت )
+## هەنگاوی دووەم 2  :- ئەتوانن بەرێگای یەکێک لە Trollstore , Scarlet , sierraدایبەزێنن ( جگە لە ترۆڵستۆر بۆ هەریەک لەوانەی تر پێویستان بە Certificate دەبێت )
 
 ## هەنگاوی سێیەم 3 :-  دوای دابەزاندنی ئەم هەنگاوانە بکەن 
 Settings Video Star 👉🏽 Click ICStar Plus إعدادات أداة👉🏽 wait 10 Seconds 👉🏽 On  تفعیل ممیزات فیدیو ستار 👉🏽 click اغلاق التطبیق. 
