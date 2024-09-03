@@ -4,7 +4,6 @@
 **Telegram KURDiOS:** [Join here](https://t.me/KURD_i0S)  
 
 
-
 ---
 # هەنگاوەکانی دابەزاندنی Video Star - KURDiOS-ICStar
 
