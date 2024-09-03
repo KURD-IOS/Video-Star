@@ -1,18 +1,26 @@
-سڵاوی خودای گەورەتان لێ بێت
+# Video Star KURDiOS
 
-بۆ دابەزاندنی Video Star - KURDiOS-ICStar ئەتوانن ئەم هەنگاوانە بکەن
+## بۆ هەر کێشەیەک دەتوانی بێتە تیلیگرامەکەمان
+**Telegram channel:** [Join here]([https://discord.gg/celestialios](https://t.me/KURD_i0S))  
 
 
-هەنگاوەکان :- 
-1 - دابەزاندنی IPAـــی یاریەکە کە داناوە بۆتان.
+---
+# هەنگاوەکانی دابەزاندنی Video Star - KURDiOS-ICStar
 
-2 - ئەتوانن بەرێگای یەکێک لە Trollstore , Esign , Scarlet , sierra 
- دایبەزێنن ( جگە لە ترۆڵستۆری بۆ هەریەک لەوانەی تر پێویستان بە Certificate دەبێت )
+## گەنگاوی یەکەم 1 - دابەزاندنی IPAـــی یاریەکە کە داناوە بۆتان.
 
-3 - دوای دابەزاندنی ئەم
-هەنگاوانە بکەن
-Settings Video Star 👉🏽 Click ICStar Plus إعدادات أداة👉🏽 wait 10 Seconds 👉🏽 On  تفعیل ممیزات فیدیو ستار 👉🏽 click اغلاق التطبیق.
+**[گرتە لەم لینکە بکە بۆ دابەزاندنی Video Star](https://github.com/KURD-IOS/Video-Star/releases/download/Video-Star-KURDiOS/Video.Star.-.KURDiOS.ipa)**
 
-دوا ئەنجامدانی ئەم کردارە بە سەرکەوتووی ڤیدیۆ ستارەکەت هەموو بەشەکانی بەخۆڕایی دەبێت
+## گەنگاوی یەکەم 2
+ ئەتوانن بەرێگای یەکێک لە Trollstore , Esign , Scarlet , sierra 
+ دایبەزێنن ( جگە لە ترۆڵستۆر بۆ هەریەک لەوانەی تر پێویستان بە Certificate دەبێت )
 
-لە کاتی هەبوونی هەر کێشەیەک ئەتوانن نامە بنێرن بۆ ئەو لینکەی وا دامناوە بۆتان
+
+## گەنگاوی یەکەم 3
+
+دوای دابەزاندنی ئەم هەنگاوانە بکەن
+Settings Video Star 👉🏽 Click ICStar Plus إعدادات أداة👉🏽 wait 10 Seconds 👉🏽 On  تفعیل ممیزات فیدیو ستار 👉🏽 click اغلاق التطبیق. 
+دوا ئەنجامدانی ئەم کردارە بە سەرکەوتووی ڤیدیۆ ستارەکەت هەموو بەشەکانی بەخۆڕایی دەبێت.
+
+
+- **لە کاتی هەبوونی هەر کێشەیەک ئەتوانن نامە بنێرن بۆ ئەو لینکەی وا دامناوە بۆتان:** [Telegram KURDiOS join here]([https://github.com/atellies/EpicGamesStoreIPA/releases/download/latest/FallGuys.ipa](https://t.me/KURD_i0S))
