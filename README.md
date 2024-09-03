@@ -1,7 +1,8 @@
 # Video Star KURDiOS
 
 ## بۆ هەر کێشەیەک دەتوانی بێتە تیلیگرامەکەمان
-**Telegram channel:** [Join here]([https://discord.gg/celestialios](https://t.me/KURD_i0S))  
+**Telegram KURDiOS:** [Join here](https://t.me/KURD_i0S)  
+
 
 
 ---
